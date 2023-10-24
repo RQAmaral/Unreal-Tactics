@@ -8,7 +8,9 @@
 				"D:/Unreal_Tactics/Unreal_Tactics/Content/Maps/L_Entry.umap",
 				"D:/Unreal_Tactics/Unreal_Tactics/Content/Blueprints/Core/Player/BP_GM.uasset",
 				"D:/Unreal_Tactics/Unreal_Tactics/Content/Blueprints/Core/Player/BP_PC.uasset",
-				"D:/Unreal_Tactics/Unreal_Tactics/Content/Blueprints/Core/Player/BP_Pawn.uasset"
+				"D:/Unreal_Tactics/Unreal_Tactics/Content/Blueprints/Core/Player/BP_Pawn.uasset",
+				"D:/Unreal_Tactics/Unreal_Tactics/Content/Blueprints/DebugMenu/W_DebugMenu.uasset",
+				"D:/Unreal_Tactics/Unreal_Tactics/Content/Blueprints/DebugMenu/BP_DebugMenu.uasset"
 			]
 		}
 	]
