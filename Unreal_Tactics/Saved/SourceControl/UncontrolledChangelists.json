@@ -10,7 +10,9 @@
 				"D:/Unreal_Tactics/Unreal_Tactics/Content/Blueprints/Core/Player/BP_PC.uasset",
 				"D:/Unreal_Tactics/Unreal_Tactics/Content/Blueprints/Core/Player/BP_Pawn.uasset",
 				"D:/Unreal_Tactics/Unreal_Tactics/Content/Blueprints/DebugMenu/W_DebugMenu.uasset",
-				"D:/Unreal_Tactics/Unreal_Tactics/Content/Blueprints/DebugMenu/BP_DebugMenu.uasset"
+				"D:/Unreal_Tactics/Unreal_Tactics/Content/Blueprints/DebugMenu/BP_DebugMenu.uasset",
+				"D:/Unreal_Tactics/Unreal_Tactics/Content/Blueprints/DebugMenu/Widgets/Button_ConsoleCommand.uasset",
+				"D:/Unreal_Tactics/Unreal_Tactics/Content/Blueprints/DebugMenu/Tabs/Tab_ConsoleCommands.uasset"
 			]
 		}
 	]
